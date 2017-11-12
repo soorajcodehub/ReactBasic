@@ -1,0 +1,9 @@
+{
+	"editor.tabSize": 2,
+	"editor.codeLens": ,
+	"editor.cursorBlinking": "blink",
+	"editor.cursorStyle": "block",
+	"editor.dragAndDrop":true,
+	"editor.autoClosingBrackets": true,
+	"editor.trimAutoWhitespace": true
+}
